@@ -1,0 +1,31 @@
+#form-container{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+#form-input{
+    width: 400px;
+    height: 45px;
+    border: 2px white solid;
+    background-color: rgba(255, 192, 203, 0.473);
+}
+button{
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 13px;
+    border-radius: 30px;
+    border: 2px white solid;
+    background-color: rgba(255, 192, 203, 0.507);
+}
+body{
+    background-image: url("https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/iStock%20large%20clouds%20skies%20sky%20scape.jpg");
+  background-color: #cccccc;
+  height: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serifs;
+    font-weight: 100;
+
+}
